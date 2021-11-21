@@ -3,6 +3,6 @@
 ### Terminal Execution
 $ cd Card_Game/src
 
-$ cd javac CardGame.java
+$ javac CardGame.java
 
-$ cd java CardGame
+$ java CardGame
